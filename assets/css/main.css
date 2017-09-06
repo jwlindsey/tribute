@@ -1,0 +1,55 @@
+/* importing google fonts api */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 200;
+  margin: 0px;
+}
+
+img {
+  margin: 10px auto;
+}
+
+blockquote {
+  margin: 10px;
+}
+
+li {
+  margin: 10px;
+  text-align: left;
+}
+
+a {
+  color: white;
+}
+
+.box {
+  background-color: rgba(0,0,0,0.65);
+  width: 80%;
+  padding: 15px;
+  margin: 15px auto;
+  text-align: center;
+}
+
+.clr {
+  clear:both;
+}
+
+hr {
+  border-top: 3px solid;
+  color: white;
+}
